@@ -1,5 +1,3 @@
-from ntpath import join
-
 list_jack = ['Jack',':','How ','are ','you ','today ','?']
 list_jim = ['Jim ',"I'm ",'well ','Thank ','you ','and ','you ','?']
 
