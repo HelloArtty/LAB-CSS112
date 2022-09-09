@@ -1,0 +1,7 @@
+$ git status 
+On branch main
+Untracked files:
+
+.pdf
+.zip
+.docx

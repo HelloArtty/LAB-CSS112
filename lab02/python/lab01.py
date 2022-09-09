@@ -1,0 +1,1 @@
+celsius = input('Please enter the temperature in Celsius : ') ;celsiusnum = int(celsius) ;fahrenheit = (9/5*celsiusnum)+32 ;print("The %.1f Celcius = %.1f Farenhite"%(celsiusnum,fahrenheit))
