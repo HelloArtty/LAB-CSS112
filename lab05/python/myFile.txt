@@ -1,2 +1,0 @@
-Hello..Welcome to the CSS 112 Computer Programming class.
-Nice having all of you here.
